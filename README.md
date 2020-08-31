@@ -1,5 +1,5 @@
 # pythonfibonacci
-printing fibonacci num upto user input range
+# printing fibonacci num upto user input range
 y = int(input())
 a = 0
 b = 1
